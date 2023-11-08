@@ -1,10 +1,9 @@
-# Attendance management system using face recognition
-The Attendance Management System using Face Recognition is a software application that uses facial recognition technology to mark attendance in real-time. It is a user-friendly application that allows users to take attendance with the click of a button.
+# Face Recognition System
+Face Recognition is a software application that uses facial recognition technology to recognize features in real-time.
 
 ## Features
-- Face recognition-based attendance management system
-- Automatically updates attendance data in Excel sheet
-- Calculates the attendance percentage
+- Face recognition system
+- Automatically updates facial features in Excel sheet
   
 ## Requirements
 - Python 3.6+
